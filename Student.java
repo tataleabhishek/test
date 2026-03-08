@@ -1,5 +1,5 @@
 Student {
-private int rollName;
+private int rollNumber;
 private String name;
 private int age;
 private char grade;
