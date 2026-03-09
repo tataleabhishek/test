@@ -4,7 +4,9 @@ private String name;
 private int age;
 private String grade;
 private String address;
-private long phNo;
-
+private long phNo
+public void setters(){
+}
 
 }
+
